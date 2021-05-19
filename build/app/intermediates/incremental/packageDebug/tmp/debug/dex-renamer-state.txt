@@ -1,0 +1,4 @@
+#Wed May 19 23:27:31 IST 2021
+base.0=/home/pramodc/Desktop/Development/tech/mobile app/normal/sliding_puzzle/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
