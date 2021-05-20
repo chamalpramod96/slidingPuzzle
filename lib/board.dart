@@ -37,9 +37,15 @@ class _BoardState extends State<Board> {
     }
     return SafeArea(
       child: Container(
-        
-        height: size.height,
-        color: Colors.deepPurpleAccent,
+        // height: size.height,
+        // color: Colors.green,
+        decoration: BoxDecoration(
+          image: DecorationImage(
+            image: AssetImage('assets/images/img01.jpeg'),
+            fit: BoxFit.fill,
+          ),
+          shape: BoxShape.rectangle,
+        ),
         child: Column(
           children: <Widget>[
             MyTitle(size),
@@ -121,7 +127,7 @@ class _BoardState extends State<Board> {
                       ),
                     ),
                     SizedBox(
-                      width: 220,
+                      width: 260,
                       // ignore: deprecated_member_use
                       child: RaisedButton(
                         onPressed: () {
@@ -131,7 +137,7 @@ class _BoardState extends State<Board> {
                           "Close",
                           style: TextStyle(color: Colors.white),
                         ),
-                        color: Colors.blue,
+                        color: Colors.red,
                       ),
                     )
                   ],
