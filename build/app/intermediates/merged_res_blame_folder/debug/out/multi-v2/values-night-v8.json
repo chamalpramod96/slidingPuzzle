@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/pramodc/Desktop/Development/tech/mobile app/normal/sliding_puzzle/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/pramodc/Desktop/Development/tech/mobile app/normal/slidingPuzzle/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/pramodc/Desktop/Development/tech/mobile app/normal/sliding_puzzle/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/pramodc/Desktop/Development/tech/mobile app/normal/slidingPuzzle/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
